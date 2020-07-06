@@ -44,7 +44,7 @@ namespace Temp
             {
                 Console.WriteLine();
                 
-
+                //added this code and broke the whole thing
                 //if (userInput == 0)
                 //{
                 //    break;
