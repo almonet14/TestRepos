@@ -1,0 +1,13 @@
+C:\Users\arurb\source\repos\Temp\Temp\obj\Debug\netcoreapp3.1\Temp.csprojAssemblyReference.cache
+C:\Users\arurb\source\repos\Temp\Temp\obj\Debug\netcoreapp3.1\Temp.csproj.CoreCompileInputs.cache
+C:\Users\arurb\source\repos\Temp\Temp\obj\Debug\netcoreapp3.1\Temp.AssemblyInfoInputs.cache
+C:\Users\arurb\source\repos\Temp\Temp\obj\Debug\netcoreapp3.1\Temp.AssemblyInfo.cs
+C:\Users\arurb\source\repos\Temp\Temp\bin\Debug\netcoreapp3.1\Temp.exe
+C:\Users\arurb\source\repos\Temp\Temp\bin\Debug\netcoreapp3.1\Temp.deps.json
+C:\Users\arurb\source\repos\Temp\Temp\bin\Debug\netcoreapp3.1\Temp.runtimeconfig.json
+C:\Users\arurb\source\repos\Temp\Temp\bin\Debug\netcoreapp3.1\Temp.runtimeconfig.dev.json
+C:\Users\arurb\source\repos\Temp\Temp\bin\Debug\netcoreapp3.1\Temp.dll
+C:\Users\arurb\source\repos\Temp\Temp\bin\Debug\netcoreapp3.1\Temp.pdb
+C:\Users\arurb\source\repos\Temp\Temp\obj\Debug\netcoreapp3.1\Temp.dll
+C:\Users\arurb\source\repos\Temp\Temp\obj\Debug\netcoreapp3.1\Temp.pdb
+C:\Users\arurb\source\repos\Temp\Temp\obj\Debug\netcoreapp3.1\Temp.genruntimeconfig.cache
